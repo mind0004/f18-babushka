@@ -1,0 +1,18 @@
+.menukort {
+    display: grid;
+    grid-template-columns: repeat(3, 1fr);
+    grid-gap: 20px 10px;
+    margin: 0 auto;
+    align-items: center;
+    align-content: center;
+    background-color: darkgrey;
+    justify-content: center;
+}
+
+img {
+    max-width: 300px;
+}
+
+p {
+    justify-content: center;
+}
